@@ -37,6 +37,12 @@ Version history:
 0.0: Copy of BrickBreaker.py
 
 Preview:
+![image](https://github.com/TheProKnightGamer/BrickBreaker-for-Pythonista-V-1.2/assets/158791443/a0d2e205-1718-42dc-8a69-67267cfcbcb9)
+![image](https://github.com/TheProKnightGamer/BrickBreaker-for-Pythonista-V-1.2/assets/158791443/d9961377-6387-480f-a568-3efe9a5fc02f)
+![image](https://github.com/TheProKnightGamer/BrickBreaker-for-Pythonista-V-1.2/assets/158791443/978060aa-fda6-44f6-80ef-bed5f5b46dd6)
+
+
+
 
 Credits:
 
