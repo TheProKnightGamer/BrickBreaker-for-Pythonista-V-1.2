@@ -24,7 +24,7 @@ Version history:
 
 0.7: Added Lightning power, lightning block, and glitch background. Added release and download buttons(still in beta)
 
-0.6:Added directional bricks and added invincibility feature to certain bricks types. Started on WorldCreator.py, added brush, added brick types, and added color dump.
+0.6: Added directional bricks and added invincibility feature to certain bricks types. Started on WorldCreator.py, added brush, added brick types, and added color dump.
 
 0.4: Added boom power, added combo where if two or more powered balls will triger big boom, and brick for the power and various bug fixes.
 
